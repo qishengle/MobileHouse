@@ -18,6 +18,40 @@
 
 若发现文中有错误纰漏，欢迎各位读者提醒指正，具体问题可发送至邮箱qsl_hi@163.com，或者在github 的issues留言，在此表示诚挚的感谢！
 
+## 内容摘要
+
+- [移动住房时代-内容摘要](./content/摘要/移动住房时代-内容摘要.md) - 中文版内容摘要
+- [Mobile Housing Era Summary](./content/摘要/Mobile-Housing-Era-Summary.md) - English content summary
+
+## 内容目录（优化版）
+
+本项目已根据PDF内容进行了目录优化，采用更符合书籍结构的章节组织：
+
+👉 [查看完整内容目录](./content/README.md)
+
+### 主要部分
+
+1. [第一部分：时代背景与理论基础](./content/part1-背景理论/README.md)
+2. [第二部分：移动住房系统设计](./content/part2-系统设计/README.md)
+3. [第三部分：应用场景与模式](./content/part3-应用场景/README.md)
+4. [第四部分：实施框架与保障](./content/part4-实施框架/README.md)
+5. [第五部分：产业生态与未来展望](./content/part5-产业生态/README.md)
+6. [第六部分：实践指南与案例](./content/part6-实践指南/README.md)
+
+## 文档体系架构（原版）
+
+为了系统化地组织研究内容，本项目还保留了原有的文档体系架构，包含七大核心模块：
+
+1. [基础理论框架](./docs/1-基础理论框架/README.md) - 提供理论基础与发展背景
+2. [系统设计与实现](./docs/2-系统设计与实现/README.md) - 详细阐述技术实现路径
+3. [应用场景模型](./docs/3-应用场景模型/README.md) - 探索具体应用场景与模式
+4. [实施框架与保障](./docs/4-实施框架与保障/README.md) - 提供实施支持与保障体系
+5. [产业生态系统](./docs/5-产业生态系统/README.md) - 分析产业发展与商业模式
+6. [未来演进路径](./docs/6-未来演进路径/README.md) - 预测技术与社会发展路径
+7. [实践指南与工具](./docs/7-实践指南与工具/README.md) - 提供实用工具与方法
+
+详细的章节内容请查看 [文档目录](./docs/README.md)。
+
 ---
 Is it possible for wandering wanderers to rent a house in the city center for less than 1,000 yuan?
 
@@ -36,3 +70,37 @@ The artificial intelligence section, an introductory science explanation, helps 
 This book is especially suitable for people who plan to buy or rent a house, which may change the traditional concept of buying and renting a house for some people; it also has some reference value for manufacturers of electric cars and RVs.
 
 If you find any errors or omissions in the article, welcome to remind and correct them. You can send specific questions to qsl_hi@163.com or leave a message on github issues. Thank you sincerely !
+
+## Content Summary
+
+- [Mobile Housing Era Summary](./content/摘要/Mobile-Housing-Era-Summary.md) - English content summary
+- [移动住房时代-内容摘要](./content/摘要/移动住房时代-内容摘要.md) - Chinese content summary
+
+## Content Directory (Optimized)
+
+This project has optimized the directory according to the PDF content, adopting a chapter organization more in line with the book structure:
+
+👉 [View Full Content Directory](./content/README.md)
+
+### Main Parts
+
+1. [Part One: Background and Theoretical Foundations](./content/part1-背景理论/README.md)
+2. [Part Two: Mobile Housing System Design](./content/part2-系统设计/README.md)
+3. [Part Three: Application Scenarios and Models](./content/part3-应用场景/README.md)
+4. [Part Four: Implementation Framework and Safeguards](./content/part4-实施框架/README.md)
+5. [Part Five: Industrial Ecosystem and Future Outlook](./content/part5-产业生态/README.md)
+6. [Part Six: Practical Guidelines and Case Studies](./content/part6-实践指南/README.md)
+
+## Document Architecture System (Original)
+
+To systematically organize research content, this project has maintained the original document architecture system, including seven core modules:
+
+1. [Theoretical Foundation Framework](./docs/1-基础理论框架/README.md) - Providing theoretical basis and development background
+2. [System Design and Implementation](./docs/2-系统设计与实现/README.md) - Detailing technical implementation pathways
+3. [Application Scenario Models](./docs/3-应用场景模型/README.md) - Exploring specific application scenarios and patterns
+4. [Implementation Framework and Safeguards](./docs/4-实施框架与保障/README.md) - Providing implementation support and safeguard systems
+5. [Industrial Ecosystem](./docs/5-产业生态系统/README.md) - Analyzing industrial development and business models
+6. [Future Evolution Pathways](./docs/6-未来演进路径/README.md) - Predicting technological and social development paths
+7. [Practical Guidelines and Tools](./docs/7-实践指南与工具/README.md) - Providing practical tools and methods
+
+For detailed chapter content, please see the [Documentation Directory](./docs/README.md).
