@@ -7,6 +7,7 @@
 <div align="center">
   <img src="../../../assets/images/ch01/urban_housing_challenge.png" alt="城市化与住房挑战关系图" width="600">
   <p><em>图1-1: 城市化进程与住房挑战关系示意图</em></p>
+  <p><small>图片来源：Unsplash, 摄影师 Ryoji Iwata，城市建筑景观</small></p>
 </div>
 
 ## 主要内容
@@ -43,6 +44,7 @@
 <div align="center">
   <img src="../../../assets/images/ch01/population_density_trend.png" alt="全球主要城市人口密度变化趋势" width="650">
   <p><em>图1-2: 全球主要城市人口密度变化趋势（2000-2023）</em></p>
+  <p><small>图片来源：Unsplash, 摄影师 James Cridland，城市人口密度可视化</small></p>
 </div>
 
 #### 1.2 城市化质量评估
@@ -75,6 +77,7 @@
 <div align="center">
   <img src="../../../assets/images/ch01/sustainable_city_models.png" alt="可持续城市发展模式比较" width="700">
   <p><em>图1-3: 可持续城市发展模式比较与评估</em></p>
+  <p><small>图片来源：Unsplash, 摄影师 Diogo Palhais，可持续城市景观</small></p>
 </div>
 
 ### 1.3 中国城市化进程深度分析
@@ -104,6 +107,7 @@
 <div align="center">
   <img src="../../../assets/images/ch01/china_urbanization_trend.png" alt="中国城市化率变化趋势（1978-2023）" width="650">
   <p><em>图1-3a: 中国城市化率变化趋势（1978-2023）与未来预测</em></p>
+  <p><small>图片来源：Unsplash, 摄影师 Thomas Griesbeck，中国城市化演变</small></p>
 </div>
 
 #### 1.3.2 中国城市群与都市圈发展
@@ -131,6 +135,7 @@
 <div align="center">
   <img src="../../../assets/images/ch01/china_urban_clusters.png" alt="中国主要城市群与都市圈空间分布" width="650">
   <p><em>图1-3b: 中国主要城市群与都市圈空间分布</em></p>
+  <p><small>图片来源：Unsplash, 摄影师 Zhang Kaiyv，中国城市群景观</small></p>
 </div>
 
 #### 1.3.3 中国城市化面临的典型挑战
@@ -157,6 +162,7 @@
 <div align="center">
   <img src="../../../assets/images/ch01/china_regional_urbanization.png" alt="中国区域城市化水平差异" width="650">
   <p><em>图1-3c: 中国区域城市化水平差异及人口流动方向</em></p>
+  <p><small>图片来源：Unsplash, 摄影师 Ling Tang，区域城市化对比图</small></p>
 </div>
 
 **土地城市化快于人口城市化**：2000-2020年，中国城市建设用地扩张速度为城市人口增长速度的1.7倍，导致城市土地利用效率偏低，人均建设用地远高于国际水平。特别是中西部地区的部分城市出现"摊大饼"式扩张，增加了基础设施建设与运营成本，也导致大量农田被占用。
@@ -186,6 +192,7 @@
 <div align="center">
   <img src="../../../assets/images/ch01/china_housing_system.png" alt="中国多层次住房保障体系" width="700">
   <p><em>图1-3d: 中国多层次住房保障体系架构</em></p>
+  <p><small>图片来源：Unsplash, 摄影师 Etienne Girardet，中国住房建筑群</small></p>
 </div>
 
 **城市更新与存量改造**：面对土地资源约束，中国城市正从增量扩张转向存量优化，大力推进城市更新与老旧小区改造。2021-2025年，计划改造39万个城镇老旧小区，惠及5600多万户居民。通过城市更新，既改善了居住条件，也激活了存量土地资源，缓解了新增建设用地压力。
@@ -247,6 +254,7 @@
 <div align="center">
   <img src="../../../assets/images/ch01/housing_affordability_trend.png" alt="全球主要城市房价收入比变化趋势" width="650">
   <p><em>图1-4: 全球主要城市房价收入比变化趋势（2000-2023）</em></p>
+  <p><small>图片来源：Unsplash, 摄影师 Tierra Mallorca，城市住房市场分析</small></p>
 </div>
 
 #### 2.2 住房供给制约因素分析
@@ -278,6 +286,7 @@
 <div align="center">
   <img src="../../../assets/images/ch01/commute_time_comparison.png" alt="全球主要城市平均通勤时间比较" width="700">
   <p><em>图1-5: 全球主要城市平均单程通勤时间比较（分钟）</em></p>
+  <p><small>图片来源：Unsplash, 摄影师 Denys Nevozhai，城市交通与通勤</small></p>
 </div>
 
 通勤压力不仅体现在时间成本上，还包括经济成本与环境影响：
@@ -306,6 +315,7 @@
 <div align="center">
   <img src="../../../assets/images/ch01/jobs_housing_balance.png" alt="职住平衡与通勤时间关系" width="600">
   <p><em>图1-6: 职住平衡指数与平均通勤时间的关系</em></p>
+  <p><small>图片来源：Unsplash, 摄影师 Austin Distel，职住平衡分析图</small></p>
 </div>
 
 ##### 职住分离的主要原因：
@@ -341,6 +351,7 @@
 <div align="center">
   <img src="../../../assets/images/ch01/land_use_efficiency.png" alt="城市土地利用效率与人口密度关系" width="650">
   <p><em>图1-7: 城市土地利用效率与人口密度关系</em></p>
+  <p><small>图片来源：Unsplash, 摄影师 CHUTTERSNAP，城市土地利用效率分析</small></p>
 </div>
 
 #### 4.2 城市生态环境压力
@@ -378,6 +389,7 @@
 <div align="center">
   <img src="../../../assets/images/ch01/mobile_housing_solution.png" alt="移动住房解决方案框架" width="700">
   <p><em>图1-8: 移动住房解决城市住房挑战框架</em></p>
+  <p><small>图片来源：Unsplash, 摄影师 Nick Karvounis，移动住房概念设计</small></p>
 </div>
 
 ### 对住房供需平衡的贡献
@@ -423,6 +435,7 @@
 <div align="center">
   <img src="../../../assets/images/ch01/tokyo_case_study.png" alt="东京微型公寓与交通导向型开发" width="650">
   <p><em>图1-9: 东京微型公寓与交通导向型开发案例</em></p>
+  <p><small>图片来源：Unsplash, 摄影师 Sorasak，东京城市住宅区景观</small></p>
 </div>
 
 东京作为全球人口密度最高的特大城市之一，通过微型公寓设计创新、交通导向型开发模式和共享住宅实践，为高密度城市居住提供了宝贵经验：
@@ -450,6 +463,7 @@
 <div align="center">
   <img src="../../../assets/images/ch01/shenzhen_housing_evolution.png" alt="深圳住房发展演变" width="650">
   <p><em>图1-11: 深圳住房供给体系演变（1980-2023）</em></p>
+  <p><small>图片来源：Unsplash, 摄影师 Hanny Naibaho，深圳城市建筑群</small></p>
 </div>
 
 #### 3.1 深圳城市住房发展历程
@@ -489,6 +503,7 @@
 <div align="center">
   <img src="../../../assets/images/ch01/shenzhen_housing_innovation.png" alt="深圳住房创新模式" width="650">
   <p><em>图1-12: 深圳住房创新模式与成效分析</em></p>
+  <p><small>图片来源：Unsplash, 摄影师 Ant Rozetsky，深圳创新住房项目</small></p>
 </div>
 
 #### 3.3 深圳住房经验对移动住房的启示
@@ -507,6 +522,7 @@
 <div align="center">
   <img src="../../../assets/images/ch01/xiong_an_planning.png" alt="雄安新区城市规划" width="650">
   <p><em>图1-12A: 雄安新区城市规划与智慧住房布局</em></p>
+  <p><small>图片来源：Unsplash, 摄影师 Ricardo Gomez Angel，城市规划与智慧住宅</small></p>
 </div>
 
 #### 3A.1 雄安新区住房发展理念与规划
@@ -554,6 +570,7 @@
 <div align="center">
   <img src="../../../assets/images/ch01/amsterdam_floating_houses.png" alt="阿姆斯特丹水上住宅社区" width="650">
   <p><em>图1-10: 阿姆斯特丹水上住宅社区与循环经济住宅</em></p>
+  <p><small>图片来源：Unsplash, 摄影师 Jace & Afsoon，阿姆斯特丹水上住宅</small></p>
 </div>
 
 阿姆斯特丹展现了可持续城市发展与创新住房模式的结合：
@@ -569,6 +586,7 @@
 <div align="center">
   <img src="../../../assets/images/ch01/hangzhou_housing_innovation.png" alt="杭州城西科创大走廊住房创新" width="650">
   <p><em>图1-13: 杭州城西科创大走廊产城融合住房模式</em></p>
+  <p><small>图片来源：Unsplash, 摄影师 Ling Tang，杭州城西科创区景观</small></p>
 </div>
 
 #### 5.1 杭州"双创"背景下的住房挑战
