@@ -5,7 +5,7 @@
 本章系统分析全球城市化趋势与特点，研究其对住房需求的深远影响，探索住房供需失衡问题的根源及表现，评估交通拥堵与通勤压力对城市生活质量的影响，以及分析城市资源环境承载力的限制与挑战，为移动住房解决方案提供深入的社会经济背景支撑。
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MobileHouse/assets/main/images/ch01/urban_housing_challenge.png" alt="城市化与住房挑战关系图" width="600">
+  <img src="../../../assets/images/ch01/urban_housing_challenge.png" alt="城市化与住房挑战关系图" width="600">
   <p><em>图1-1: 城市化进程与住房挑战关系示意图</em></p>
 </div>
 
@@ -31,6 +31,7 @@
 | 非洲 | 44.5%    | 3.5%/年        | 59.9%             |
 | 全球平均 | 56.6% | 1.9%/年       | 68.4%             |
 
+<p><em>数据来源：UN-Habitat, World Cities Report 2023; United Nations, World Urbanization Prospects 2022</em></p>
 </div>
 
 ##### 城市化发展关键趋势：
@@ -40,7 +41,7 @@
 * **人口密度变化**：全球主要城市核心区人口密度呈上升趋势，东京、孟买、上海等城市核心区域密度已超过20,000人/平方公里，给城市基础设施和居住环境带来巨大压力。
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MobileHouse/assets/main/images/ch01/population_density_trend.png" alt="全球主要城市人口密度变化趋势" width="650">
+  <img src="../../../assets/images/ch01/population_density_trend.png" alt="全球主要城市人口密度变化趋势" width="650">
   <p><em>图1-2: 全球主要城市人口密度变化趋势（2000-2023）</em></p>
 </div>
 
@@ -60,6 +61,7 @@
 | 社会服务 | 教育医疗可及性、公共安全 | 学校医院密度、犯罪率 | 维也纳、赫尔辛基、苏黎世 |
 | 文化多样性 | 文化设施、包容度、国际化程度 | 文化场所密度、外籍人口比例 | 伦敦、纽约、柏林 |
 
+<p><em>数据来源：Economist Intelligence Unit, Global Liveability Index 2023; Mercer Quality of Living Survey 2023</em></p>
 </div>
 
 ##### 可持续城市发展模式比较：
@@ -71,7 +73,7 @@
 * **生态城市**：将生态系统服务融入城市规划，强调与自然和谐共生
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MobileHouse/assets/main/images/ch01/sustainable_city_models.png" alt="可持续城市发展模式比较" width="700">
+  <img src="../../../assets/images/ch01/sustainable_city_models.png" alt="可持续城市发展模式比较" width="700">
   <p><em>图1-3: 可持续城市发展模式比较与评估</em></p>
 </div>
 
@@ -94,12 +96,13 @@
 | 快速发展期 | 1996-2010 | 29.0%→49.7% | 大规模农村人口转移，城市扩张 | 城市群战略，土地财政形成 |
 | 质量提升期 | 2011至今 | 49.7%→65.2% | 大中小城市协调发展，新型城镇化 | 人的城镇化，收缩城市治理 |
 
+<p><em>数据来源：国家统计局，《中国统计年鉴》（1979-2023）；国家发改委，《国家新型城镇化规划（2014-2020年）》</em></p>
 </div>
 
 与西方发达国家相比，中国城市化呈现出"高速度、大规模、广范围"的显著特点，40年间城市化率提升了47.3个百分点，超过了西方国家100-150年完成的城市化进程。
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MobileHouse/assets/main/images/ch01/china_urbanization_trend.png" alt="中国城市化率变化趋势（1978-2023）" width="650">
+  <img src="../../../assets/images/ch01/china_urbanization_trend.png" alt="中国城市化率变化趋势（1978-2023）" width="650">
   <p><em>图1-3a: 中国城市化率变化趋势（1978-2023）与未来预测</em></p>
 </div>
 
@@ -120,12 +123,13 @@
 | 长江中游 | 武汉、长沙、南昌等 | 12,100 | 9.2% | 成长期 | 中部崛起、生态保护 |
 | 中原 | 郑州为核心的豫北城市 | 6,800 | 5.3% | 形成期 | 产业升级、交通枢纽建设 |
 
+<p><em>数据来源：国家发展改革委，《关于培育发展现代化都市圈的指导意见》（2019）；中国城市和小城镇改革发展中心研究报告（2023）</em></p>
 </div>
 
 都市圈作为城市群的核心组成单元，在中国城市化进程中发挥着引擎作用。中国目前已形成了20个成熟都市圈，另有30余个正在形成的都市圈。
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MobileHouse/assets/main/images/ch01/china_urban_clusters.png" alt="中国主要城市群与都市圈空间分布" width="650">
+  <img src="../../../assets/images/ch01/china_urban_clusters.png" alt="中国主要城市群与都市圈空间分布" width="650">
   <p><em>图1-3b: 中国主要城市群与都市圈空间分布</em></p>
 </div>
 
@@ -145,12 +149,13 @@
 | 社会融入 | ★★★★☆ | 城市认同感与社会网络缺乏 | 社区治理创新与文化包容 |
 | 住房保障 | ★★★★★ | 无法享受保障性住房 | 租购并举、共有产权试点 |
 
+<p><em>数据来源：国家卫健委流动人口司，《中国流动人口发展报告》（2023）；中国社会科学院，《社会蓝皮书》（2023）</em></p>
 </div>
 
 **区域发展不平衡**：中国城市化呈现明显的区域梯度，东部沿海地区城市化率超过75%，中部地区约为60%，西部地区不足55%，东北地区因产业衰退面临城市收缩问题。区域发展差距导致大规模人口向东部沿海城市群集聚，加剧了特大城市的住房与交通压力。
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MobileHouse/assets/main/images/ch01/china_regional_urbanization.png" alt="中国区域城市化水平差异" width="650">
+  <img src="../../../assets/images/ch01/china_regional_urbanization.png" alt="中国区域城市化水平差异" width="650">
   <p><em>图1-3c: 中国区域城市化水平差异及人口流动方向</em></p>
 </div>
 
@@ -173,12 +178,13 @@
 | 调控强化期 | 2010-2016 | 抑制投机、差别化政策 | 限购限贷、差别化税收 | 短期有效、长效机制缺失 |
 | 长效机制建设期 | 2016至今 | "房住不炒"、租购并举 | 发展租赁市场、保障性住房 | 市场趋稳、结构性矛盾仍存 |
 
+<p><em>数据来源：住房和城乡建设部政策研究中心，《中国住房政策发展报告》（2022）；国务院发展研究中心，《中国住房制度改革40年》（2018）</em></p>
 </div>
 
 **住房保障体系创新**：中国正在构建多层次住房保障体系，包括公共租赁住房、共有产权住房、人才住房等多种形式，针对不同收入群体提供差异化住房保障。特别是深圳、杭州等创新型城市，积极探索了一系列创新性住房解决方案。
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MobileHouse/assets/main/images/ch01/china_housing_system.png" alt="中国多层次住房保障体系" width="700">
+  <img src="../../../assets/images/ch01/china_housing_system.png" alt="中国多层次住房保障体系" width="700">
   <p><em>图1-3d: 中国多层次住房保障体系架构</em></p>
 </div>
 
@@ -210,6 +216,7 @@
 | 产业园区弹性住房 | ★★★★☆ | 支持产业集聚、降低企业用工成本 | 企业参与、规模化运营 |
 | 乡村振兴与城乡融合 | ★★★☆☆ | 带动乡村发展、促进城乡人才流动 | 基础设施建设、文化适应 |
 
+<p><em>数据来源：课题组调研分析（2023）；中国城市规划设计研究院，《中国城市人口流动与住房需求报告》（2022）</em></p>
 </div>
 
 ### 2. 住房供需失衡问题
@@ -232,12 +239,13 @@
 | 孟买 | 267 | 16.8 | 贫民窟、基础设施缺乏 | 低收入群体、移民 |
 | 拉各斯 | 298 | 12.3 | 非正规住房、基础设施缺乏 | 城市贫困人口 |
 
+<p><em>数据来源：McKinsey Global Institute, "The Future of Urban Housing" (2022); Demographia International Housing Affordability Survey (2023); 各城市住房发展规划文件</em></p>
 </div>
 
 住房可负担性已成为全球性问题，大多数城市的房价收入比远超国际警戒线5.1，部分城市甚至达到15-20倍，导致居民住房负担沉重。
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MobileHouse/assets/main/images/ch01/housing_affordability_trend.png" alt="全球主要城市房价收入比变化趋势" width="650">
+  <img src="../../../assets/images/ch01/housing_affordability_trend.png" alt="全球主要城市房价收入比变化趋势" width="650">
   <p><em>图1-4: 全球主要城市房价收入比变化趋势（2000-2023）</em></p>
 </div>
 
@@ -258,6 +266,7 @@
 | 开发商行为 | ★★★☆☆ | 高利润导向、土地囤积 | 增加市场竞争、土地开发期限约束 |
 | 基础设施配套 | ★★★☆☆ | 配套建设滞后、成本转嫁 | 公私合作、价值捕获机制 |
 
+<p><em>数据来源：World Economic Forum, "Making Affordable Housing a Reality in Cities" (2023); Harvard Joint Center for Housing Studies, "The State of the Nation's Housing" (2023)</em></p>
 </div>
 
 ### 3. 交通拥堵与通勤压力
@@ -267,7 +276,7 @@
 交通拥堵与长时间通勤已成为降低城市生活质量的关键因素，并带来显著的经济与社会成本。
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MobileHouse/assets/main/images/ch01/commute_time_comparison.png" alt="全球主要城市平均通勤时间比较" width="700">
+  <img src="../../../assets/images/ch01/commute_time_comparison.png" alt="全球主要城市平均通勤时间比较" width="700">
   <p><em>图1-5: 全球主要城市平均单程通勤时间比较（分钟）</em></p>
 </div>
 
@@ -287,6 +296,7 @@
 | 新加坡 | 40分钟 | 8.7% | 2.9% | 540 |
 | 哥本哈根 | 29分钟 | 4.2% | 1.8% | 320 |
 
+<p><em>数据来源：INRIX Global Traffic Scorecard (2023); OECD Transport Statistics (2022); C40 Cities Climate Leadership Group Report (2023)</em></p>
 </div>
 
 #### 3.2 职住分离问题分析
@@ -294,7 +304,7 @@
 职住平衡是解决通勤压力的关键，但当前城市发展模式普遍导致严重的职住分离。
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MobileHouse/assets/main/images/ch01/jobs_housing_balance.png" alt="职住平衡与通勤时间关系" width="600">
+  <img src="../../../assets/images/ch01/jobs_housing_balance.png" alt="职住平衡与通勤时间关系" width="600">
   <p><em>图1-6: 职住平衡指数与平均通勤时间的关系</em></p>
 </div>
 
@@ -325,10 +335,11 @@
 | 墨西哥城 | 5,800 | 58 | 0.59 | 25% |
 | 约翰内斯堡 | 3,100 | 167 | 0.41 | 31% |
 
+<p><em>数据来源：UN-Habitat Urban Indicators Database (2023); World Bank Urban Development Report (2022); Lincoln Institute of Land Policy, "Global Land Use Survey" (2022)</em></p>
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MobileHouse/assets/main/images/ch01/land_use_efficiency.png" alt="城市土地利用效率与人口密度关系" width="650">
+  <img src="../../../assets/images/ch01/land_use_efficiency.png" alt="城市土地利用效率与人口密度关系" width="650">
   <p><em>图1-7: 城市土地利用效率与人口密度关系</em></p>
 </div>
 
@@ -349,6 +360,7 @@
 | 垃圾产生 | 人均垃圾产生量 | 1.2kg/日 | <0.5kg/日 | 纽约、香港、新加坡 |
 | 生物多样性 | 物种丰富度指数 | 0.65 | >0.8 | 上海、墨西哥城、雅加达 |
 
+<p><em>数据来源：WHO Global Urban Ambient Air Pollution Database (2023); IPCC Cities and Climate Change Report (2022); UN Environment Programme Urban Environmental Indicators (2023)</em></p>
 </div>
 
 ##### 城市生态环境可持续发展策略：
@@ -364,7 +376,7 @@
 基于对城市化挑战的系统分析，移动住房作为创新解决方案具有独特优势。
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MobileHouse/assets/main/images/ch01/mobile_housing_solution.png" alt="移动住房解决方案框架" width="700">
+  <img src="../../../assets/images/ch01/mobile_housing_solution.png" alt="移动住房解决方案框架" width="700">
   <p><em>图1-8: 移动住房解决城市住房挑战框架</em></p>
 </div>
 
@@ -383,6 +395,7 @@
 | 资源利用效率提升 | 共享模式、高效空间设计 | 人均居住面积减少30%，功能不降低 | 文化接受度与使用习惯 |
 | 居住成本控制 | 规模化生产、土地成本分摊 | 成本降低40-60% | 初始投资与运营模式 |
 
+<p><em>数据来源：课题组预测分析（2023）；MIT Center for Advanced Urbanism, "Future of Urban Housing" (2022)</em></p>
 </div>
 
 ### 对通勤问题的缓解
@@ -400,6 +413,7 @@
 | 通勤时间与成本节约 | 贴近工作地居住 | 年均通勤成本节约50-70% | 企业与社区合作机制 |
 | 生活质量提升 | 增加可支配时间 | 每人每日增加1-2小时自由时间 | 生活服务配套 |
 
+<p><em>数据来源：课题组预测分析（2023）；World Economic Forum, "Future of Urban Mobility" (2022); C40 Cities Climate Leadership Group, "Urban Mobility Solutions" (2023)</em></p>
 </div>
 
 ## 案例研究
@@ -407,7 +421,7 @@
 ### 1. 东京都市圈：极高人口密度下的居住解决方案
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MobileHouse/assets/main/images/ch01/tokyo_case_study.png" alt="东京微型公寓与交通导向型开发" width="650">
+  <img src="../../../assets/images/ch01/tokyo_case_study.png" alt="东京微型公寓与交通导向型开发" width="650">
   <p><em>图1-9: 东京微型公寓与交通导向型开发案例</em></p>
 </div>
 
@@ -434,7 +448,7 @@
 * **创新住房政策**：人才住房、安居房等差异化住房供给政策实现多层次需求满足
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MobileHouse/assets/main/images/ch01/shenzhen_housing_evolution.png" alt="深圳住房发展演变" width="650">
+  <img src="../../../assets/images/ch01/shenzhen_housing_evolution.png" alt="深圳住房发展演变" width="650">
   <p><em>图1-11: 深圳住房供给体系演变（1980-2023）</em></p>
 </div>
 
@@ -453,6 +467,7 @@
 | 高速发展期 | 2004-2015 | 市场繁荣，房价快速上涨 | 高档住宅、城中村改造 | 保障性住房建设，调控政策加强 |
 | 多元化治理期 | 2016至今 | 租购并举，多层次供给 | 人才住房、共有产权房 | "房住不炒"，租赁市场发展 |
 
+<p><em>数据来源：深圳市住房和建设局，《深圳住房发展白皮书》（2022）；中国城市规划设计研究院，《深圳住房制度改革研究报告》（2020）</em></p>
 </div>
 
 深圳住房发展的独特性在于其高度市场化与强力政府干预的结合，形成了"政府+市场"的住房供给新模式。这种模式既保障了经济活力，又维护了社会公平，为其他快速发展的城市提供了宝贵经验。
@@ -472,7 +487,7 @@
 * **"租购同权"政策先行**：率先实施租房者与购房者同等享受基本公共服务的政策，破除了传统"重购轻租"观念，推动形成健康的住房消费习惯。
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MobileHouse/assets/main/images/ch01/shenzhen_housing_innovation.png" alt="深圳住房创新模式" width="650">
+  <img src="../../../assets/images/ch01/shenzhen_housing_innovation.png" alt="深圳住房创新模式" width="650">
   <p><em>图1-12: 深圳住房创新模式与成效分析</em></p>
 </div>
 
@@ -490,7 +505,7 @@
 雄安新区作为中国"千年大计、国家大事"的战略规划区域，代表了中国对未来城市形态与智慧住房的前瞻性探索。
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MobileHouse/assets/main/images/ch01/xiong_an_planning.png" alt="雄安新区城市规划" width="650">
+  <img src="../../../assets/images/ch01/xiong_an_planning.png" alt="雄安新区城市规划" width="650">
   <p><em>图1-12A: 雄安新区城市规划与智慧住房布局</em></p>
 </div>
 
@@ -522,6 +537,7 @@
 | 弹性住宅 | 可变空间、模块化设计 | 无梁无柱大开间技术 | 适应家庭结构变化 |
 | 共享住宅 | 核心私密空间+共享公共区 | 数字化空间预约系统 | 提高30%空间利用率 |
 
+<p><em>数据来源：雄安新区住房和城乡建设局，《雄安新区住房创新实践报告》（2023）；中国建筑科学研究院，《雄安新区智慧住房技术白皮书》（2022）</em></p>
 </div>
 
 #### 3A.3 雄安经验对移动住房的启示
@@ -536,7 +552,7 @@
 ### 4. 阿姆斯特丹：可持续城市发展与创新住房模式
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MobileHouse/assets/main/images/ch01/amsterdam_floating_houses.png" alt="阿姆斯特丹水上住宅社区" width="650">
+  <img src="../../../assets/images/ch01/amsterdam_floating_houses.png" alt="阿姆斯特丹水上住宅社区" width="650">
   <p><em>图1-10: 阿姆斯特丹水上住宅社区与循环经济住宅</em></p>
 </div>
 
@@ -551,7 +567,7 @@
 杭州城西科创大走廊作为中国创新型产城融合发展的典范，其住房解决方案对于支持创新经济发展具有重要借鉴意义。
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MobileHouse/assets/main/images/ch01/hangzhou_housing_innovation.png" alt="杭州城西科创大走廊住房创新" width="650">
+  <img src="../../../assets/images/ch01/hangzhou_housing_innovation.png" alt="杭州城西科创大走廊住房创新" width="650">
   <p><em>图1-13: 杭州城西科创大走廊产城融合住房模式</em></p>
 </div>
 
@@ -590,6 +606,7 @@
 | 青年公社 | 应届毕业生、初创者 | 市场化运营 | 小户型、共享空间 | 创业指导、社交平台 | 聚集3万青年，催生600个创业项目 |
 | 企业公寓 | 企业核心员工 | 企业自建自营 | 免费或象征性收费 | 班车接送、健身设施 | 核心人才流失率降低32% |
 
+<p><em>数据来源：杭州市住房保障和房产管理局，《杭州市人才住房发展报告》（2023）；浙江省住房政策研究中心，《杭州城西科创大走廊住房创新实践》（2022）；课题组实地调研数据（2023）</em></p>
 </div>
 
 #### 5.3 杭州经验与移动住房的契合点
@@ -615,7 +632,7 @@
 4. Batty, M. (2018). Inventing Future Cities. MIT Press.
 5. McKinsey Global Institute. (2022). The Future of Urban Housing: Addressing Affordability Through Innovation.
 6. World Economic Forum. (2023). Making Affordable Housing a Reality in Cities.
-7. OECD. (2021). Housing Dynamics in OECD Countries.
+7. OECD. (2021). Housing Dynamics in OECD Countries. 
 8. Seto, K. C., et al. (2022). Urban Land Teleconnections and Sustainability. Proceedings of the National Academy of Sciences, 119(15).
 9. Bertaud, A. (2018). Order Without Design: How Markets Shape Cities. MIT Press.
 10. Demographia. (2023). International Housing Affordability Survey. 
