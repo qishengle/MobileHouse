@@ -5,7 +5,7 @@
 本章系统分析全球城市化趋势与特点，研究其对住房需求的深远影响，探索住房供需失衡问题的根源及表现，评估交通拥堵与通勤压力对城市生活质量的影响，以及分析城市资源环境承载力的限制与挑战，为移动住房解决方案提供深入的社会经济背景支撑。
 
 <div align="center">
-  <img src="../../../assets/images/ch01/urban_housing_challenge.png" alt="城市化与住房挑战关系图" width="600">
+  <img src="https://raw.githubusercontent.com/qishengle/MobileHouse/main/assets/images/ch01/urban_housing_challenge.png" alt="城市化与住房挑战关系图" width="600">
   <p><em>图1-1: 城市化进程与住房挑战关系示意图</em></p>
   <p><small>图片来源：Unsplash, 摄影师 Ryoji Iwata，城市建筑景观</small></p>
 </div>
@@ -42,7 +42,7 @@
 * **人口密度变化**：全球主要城市核心区人口密度呈上升趋势，东京、孟买、上海等城市核心区域密度已超过20,000人/平方公里，给城市基础设施和居住环境带来巨大压力。
 
 <div align="center">
-  <img src="../../../assets/images/ch01/population_density_trend.png" alt="全球主要城市人口密度变化趋势" width="650">
+  <img src="https://raw.githubusercontent.com/qishengle/MobileHouse/main/assets/images/ch01/population_density_trend.png" alt="全球主要城市人口密度变化趋势" width="650">
   <p><em>图1-2: 全球主要城市人口密度变化趋势（2000-2023）</em></p>
   <p><small>图片来源：Unsplash, 摄影师 James Cridland，城市人口密度可视化</small></p>
 </div>
@@ -75,7 +75,7 @@
 * **生态城市**：将生态系统服务融入城市规划，强调与自然和谐共生
 
 <div align="center">
-  <img src="../../../assets/images/ch01/sustainable_city_models.png" alt="可持续城市发展模式比较" width="700">
+  <img src="https://raw.githubusercontent.com/qishengle/MobileHouse/main/assets/images/ch01/sustainable_city_models.png" alt="可持续城市发展模式比较" width="700">
   <p><em>图1-3: 可持续城市发展模式比较与评估</em></p>
   <p><small>图片来源：Unsplash, 摄影师 Diogo Palhais，可持续城市景观</small></p>
 </div>
@@ -105,7 +105,7 @@
 与西方发达国家相比，中国城市化呈现出"高速度、大规模、广范围"的显著特点，40年间城市化率提升了47.3个百分点，超过了西方国家100-150年完成的城市化进程。
 
 <div align="center">
-  <img src="../../../assets/images/ch01/china_urbanization_trend.png" alt="中国城市化率变化趋势（1978-2023）" width="650">
+  <img src="https://raw.githubusercontent.com/qishengle/MobileHouse/main/assets/images/ch01/china_urbanization_trend.png" alt="中国城市化率变化趋势（1978-2023）" width="650">
   <p><em>图1-3a: 中国城市化率变化趋势（1978-2023）与未来预测</em></p>
   <p><small>图片来源：Unsplash, 摄影师 Thomas Griesbeck，中国城市化演变</small></p>
 </div>
@@ -133,7 +133,7 @@
 都市圈作为城市群的核心组成单元，在中国城市化进程中发挥着引擎作用。中国目前已形成了20个成熟都市圈，另有30余个正在形成的都市圈。
 
 <div align="center">
-  <img src="../../../assets/images/ch01/china_urban_clusters.png" alt="中国主要城市群与都市圈空间分布" width="650">
+  <img src="https://raw.githubusercontent.com/qishengle/MobileHouse/main/assets/images/ch01/china_urban_clusters.png" alt="中国主要城市群与都市圈空间分布" width="650">
   <p><em>图1-3b: 中国主要城市群与都市圈空间分布</em></p>
   <p><small>图片来源：Unsplash, 摄影师 Zhang Kaiyv，中国城市群景观</small></p>
 </div>
@@ -160,7 +160,7 @@
 **区域发展不平衡**：中国城市化呈现明显的区域梯度，东部沿海地区城市化率超过75%，中部地区约为60%，西部地区不足55%，东北地区因产业衰退面临城市收缩问题。区域发展差距导致大规模人口向东部沿海城市群集聚，加剧了特大城市的住房与交通压力。
 
 <div align="center">
-  <img src="../../../assets/images/ch01/china_regional_urbanization.png" alt="中国区域城市化水平差异" width="650">
+  <img src="https://raw.githubusercontent.com/qishengle/MobileHouse/main/assets/images/ch01/china_regional_urbanization.png" alt="中国区域城市化水平差异" width="650">
   <p><em>图1-3c: 中国区域城市化水平差异及人口流动方向</em></p>
   <p><small>图片来源：Unsplash, 摄影师 Ling Tang，区域城市化对比图</small></p>
 </div>
@@ -190,7 +190,7 @@
 **住房保障体系创新**：中国正在构建多层次住房保障体系，包括公共租赁住房、共有产权住房、人才住房等多种形式，针对不同收入群体提供差异化住房保障。特别是深圳、杭州等创新型城市，积极探索了一系列创新性住房解决方案。
 
 <div align="center">
-  <img src="../../../assets/images/ch01/china_housing_system.png" alt="中国多层次住房保障体系" width="700">
+  <img src="https://raw.githubusercontent.com/qishengle/MobileHouse/main/assets/images/ch01/china_housing_system.png" alt="中国多层次住房保障体系" width="700">
   <p><em>图1-3d: 中国多层次住房保障体系架构</em></p>
   <p><small>图片来源：Unsplash, 摄影师 Etienne Girardet，中国住房建筑群</small></p>
 </div>
@@ -252,7 +252,7 @@
 住房可负担性已成为全球性问题，大多数城市的房价收入比远超国际警戒线5.1，部分城市甚至达到15-20倍，导致居民住房负担沉重。
 
 <div align="center">
-  <img src="../../../assets/images/ch01/housing_affordability_trend.png" alt="全球主要城市房价收入比变化趋势" width="650">
+  <img src="https://raw.githubusercontent.com/qishengle/MobileHouse/main/assets/images/ch01/housing_affordability_trend.png" alt="全球主要城市房价收入比变化趋势" width="650">
   <p><em>图1-4: 全球主要城市房价收入比变化趋势（2000-2023）</em></p>
   <p><small>图片来源：Unsplash, 摄影师 Tierra Mallorca，城市住房市场分析</small></p>
 </div>
@@ -284,7 +284,7 @@
 交通拥堵与长时间通勤已成为降低城市生活质量的关键因素，并带来显著的经济与社会成本。
 
 <div align="center">
-  <img src="../../../assets/images/ch01/commute_time_comparison.png" alt="全球主要城市平均通勤时间比较" width="700">
+  <img src="https://raw.githubusercontent.com/qishengle/MobileHouse/main/assets/images/ch01/commute_time_comparison.png" alt="全球主要城市平均通勤时间比较" width="700">
   <p><em>图1-5: 全球主要城市平均单程通勤时间比较（分钟）</em></p>
   <p><small>图片来源：Unsplash, 摄影师 Denys Nevozhai，城市交通与通勤</small></p>
 </div>
@@ -313,7 +313,7 @@
 职住平衡是解决通勤压力的关键，但当前城市发展模式普遍导致严重的职住分离。
 
 <div align="center">
-  <img src="../../../assets/images/ch01/jobs_housing_balance.png" alt="职住平衡与通勤时间关系" width="600">
+  <img src="https://raw.githubusercontent.com/qishengle/MobileHouse/main/assets/images/ch01/jobs_housing_balance.png" alt="职住平衡与通勤时间关系" width="600">
   <p><em>图1-6: 职住平衡指数与平均通勤时间的关系</em></p>
   <p><small>图片来源：Unsplash, 摄影师 Austin Distel，职住平衡分析图</small></p>
 </div>
@@ -349,7 +349,7 @@
 </div>
 
 <div align="center">
-  <img src="../../../assets/images/ch01/land_use_efficiency.png" alt="城市土地利用效率与人口密度关系" width="650">
+  <img src="https://raw.githubusercontent.com/qishengle/MobileHouse/main/assets/images/ch01/land_use_efficiency.png" alt="城市土地利用效率与人口密度关系" width="650">
   <p><em>图1-7: 城市土地利用效率与人口密度关系</em></p>
   <p><small>图片来源：Unsplash, 摄影师 CHUTTERSNAP，城市土地利用效率分析</small></p>
 </div>
@@ -387,7 +387,7 @@
 基于对城市化挑战的系统分析，移动住房作为创新解决方案具有独特优势。
 
 <div align="center">
-  <img src="../../../assets/images/ch01/mobile_housing_solution.png" alt="移动住房解决方案框架" width="700">
+  <img src="https://raw.githubusercontent.com/qishengle/MobileHouse/main/assets/images/ch01/mobile_housing_solution.png" alt="移动住房解决方案框架" width="700">
   <p><em>图1-8: 移动住房解决城市住房挑战框架</em></p>
   <p><small>图片来源：Unsplash, 摄影师 Nick Karvounis，移动住房概念设计</small></p>
 </div>
@@ -433,7 +433,7 @@
 ### 1. 东京都市圈：极高人口密度下的居住解决方案
 
 <div align="center">
-  <img src="../../../assets/images/ch01/tokyo_case_study.png" alt="东京微型公寓与交通导向型开发" width="650">
+  <img src="https://raw.githubusercontent.com/qishengle/MobileHouse/main/assets/images/ch01/tokyo_case_study.png" alt="东京微型公寓与交通导向型开发" width="650">
   <p><em>图1-9: 东京微型公寓与交通导向型开发案例</em></p>
   <p><small>图片来源：Unsplash, 摄影师 Sorasak，东京城市住宅区景观</small></p>
 </div>
@@ -461,7 +461,7 @@
 * **创新住房政策**：人才住房、安居房等差异化住房供给政策实现多层次需求满足
 
 <div align="center">
-  <img src="../../../assets/images/ch01/shenzhen_housing_evolution.png" alt="深圳住房发展演变" width="650">
+  <img src="https://raw.githubusercontent.com/qishengle/MobileHouse/main/assets/images/ch01/shenzhen_housing_evolution.png" alt="深圳住房发展演变" width="650">
   <p><em>图1-11: 深圳住房供给体系演变（1980-2023）</em></p>
   <p><small>图片来源：Unsplash, 摄影师 Hanny Naibaho，深圳城市建筑群</small></p>
 </div>
@@ -501,7 +501,7 @@
 * **"租购同权"政策先行**：率先实施租房者与购房者同等享受基本公共服务的政策，破除了传统"重购轻租"观念，推动形成健康的住房消费习惯。
 
 <div align="center">
-  <img src="../../../assets/images/ch01/shenzhen_housing_innovation.png" alt="深圳住房创新模式" width="650">
+  <img src="https://raw.githubusercontent.com/qishengle/MobileHouse/main/assets/images/ch01/shenzhen_housing_innovation.png" alt="深圳住房创新模式" width="650">
   <p><em>图1-12: 深圳住房创新模式与成效分析</em></p>
   <p><small>图片来源：Unsplash, 摄影师 Ant Rozetsky，深圳创新住房项目</small></p>
 </div>
@@ -520,7 +520,7 @@
 雄安新区作为中国"千年大计、国家大事"的战略规划区域，代表了中国对未来城市形态与智慧住房的前瞻性探索。
 
 <div align="center">
-  <img src="../../../assets/images/ch01/xiong_an_planning.png" alt="雄安新区城市规划" width="650">
+  <img src="https://raw.githubusercontent.com/qishengle/MobileHouse/main/assets/images/ch01/xiong_an_planning.png" alt="雄安新区城市规划" width="650">
   <p><em>图1-12A: 雄安新区城市规划与智慧住房布局</em></p>
   <p><small>图片来源：Unsplash, 摄影师 Ricardo Gomez Angel，城市规划与智慧住宅</small></p>
 </div>
@@ -568,7 +568,7 @@
 ### 4. 阿姆斯特丹：可持续城市发展与创新住房模式
 
 <div align="center">
-  <img src="../../../assets/images/ch01/amsterdam_floating_houses.png" alt="阿姆斯特丹水上住宅社区" width="650">
+  <img src="https://raw.githubusercontent.com/qishengle/MobileHouse/main/assets/images/ch01/amsterdam_floating_houses.png" alt="阿姆斯特丹水上住宅社区" width="650">
   <p><em>图1-10: 阿姆斯特丹水上住宅社区与循环经济住宅</em></p>
   <p><small>图片来源：Unsplash, 摄影师 Jace & Afsoon，阿姆斯特丹水上住宅</small></p>
 </div>
@@ -584,7 +584,7 @@
 杭州城西科创大走廊作为中国创新型产城融合发展的典范，其住房解决方案对于支持创新经济发展具有重要借鉴意义。
 
 <div align="center">
-  <img src="../../../assets/images/ch01/hangzhou_housing_innovation.png" alt="杭州城西科创大走廊住房创新" width="650">
+  <img src="https://raw.githubusercontent.com/qishengle/MobileHouse/main/assets/images/ch01/hangzhou_housing_innovation.png" alt="杭州城西科创大走廊住房创新" width="650">
   <p><em>图1-13: 杭州城西科创大走廊产城融合住房模式</em></p>
   <p><small>图片来源：Unsplash, 摄影师 Ling Tang，杭州城西科创区景观</small></p>
 </div>
