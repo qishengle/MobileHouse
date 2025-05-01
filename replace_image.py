@@ -128,6 +128,20 @@ image_config = {
         'source_file': 'shenzhen_evolution_source.txt',
         'source_record': '深圳住房发展白皮书中的图表',
         'suggested_citation': '深圳市住房和建设局，《深圳住房发展白皮书》(2023)'
+    },
+    'hydrogen_fuel_cell': {
+        'file_name': 'hydrogen_fuel_cell_integration.png',
+        'keywords': [
+            'hydrogen fuel cell integration schematic diagram',
+            'fuel cell battery hybrid system schematic',
+            'fuel cell system diagram technical',
+            'hydrogen fuel cell electric vehicle powertrain diagram',
+            '氢燃料电池系统示意图',
+            '燃料电池电动汽车系统原理图'
+        ],
+        'source_file': 'hydrogen_fuel_cell_source.txt',
+        'source_record': '氢燃料电池系统集成架构图来源',
+        'suggested_citation': 'Journal of Power Sources, "Integrated Hydrogen Fuel Cell Systems for Mobile Applications" (2023)'
     }
 }
 
@@ -164,7 +178,12 @@ def download_image_with_crawler(image_type, output_dir='assets/images/ch01', max
                 storage={'root_dir': output_dir},
                 log_level=logging.INFO
             )
-            google_crawler.crawl(keyword=keyword, max_num=max_num)
+            # 添加过滤条件 - 移除尺寸限制，优先保证相关性
+            filters = {
+                'type': 'photo',
+                'license': 'commercial,modify'  # 搜索可商用和修改的图片
+            }
+            google_crawler.crawl(keyword=keyword, max_num=max_num, filters=filters)
             downloaded_files = [f for f in os.listdir(output_dir) if f.startswith('00')]
             
             if downloaded_files:
@@ -203,7 +222,12 @@ def download_image_with_crawler(image_type, output_dir='assets/images/ch01', max
                 storage={'root_dir': output_dir},
                 log_level=logging.INFO
             )
-            bing_crawler.crawl(keyword=keyword, max_num=max_num)
+            # 添加过滤条件 - 移除尺寸限制
+            bing_filters = {
+                'type': 'photo',
+                'license': 'commercial'  # 搜索可商用的图片
+            }
+            bing_crawler.crawl(keyword=keyword, max_num=max_num, filters=bing_filters)
             downloaded_files = [f for f in os.listdir(output_dir) if f.startswith('00')]
             
             if downloaded_files:
@@ -242,7 +266,11 @@ def download_image_with_crawler(image_type, output_dir='assets/images/ch01', max
                 storage={'root_dir': output_dir},
                 log_level=logging.INFO
             )
-            baidu_crawler.crawl(keyword=keyword, max_num=max_num)
+            # 添加过滤条件 - 移除尺寸限制
+            baidu_filters = {
+                'type': 'photo'
+            }
+            baidu_crawler.crawl(keyword=keyword, max_num=max_num, filters=baidu_filters)
             downloaded_files = [f for f in os.listdir(output_dir) if f.startswith('00')]
             
             if downloaded_files:

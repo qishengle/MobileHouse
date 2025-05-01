@@ -1,0 +1,4 @@
+智能控制系统架构图来源：IEEE智能交通系统学会:
+Google搜索: intelligent control system architecture diagram
+
+建议引用来源：IEEE Transactions on Intelligent Transportation Systems, "AI-Driven Intelligent Vehicles Technologies" (2023)
