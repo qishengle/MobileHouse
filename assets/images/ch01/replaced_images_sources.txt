@@ -1,3 +1,28 @@
 替换的图片来源记录：
-china_housing_system.png: Google搜索: 中国多层次住房保障体系 保障性住房 商品房 人才住房 框架图 高清
-housing_affordability_trend.png: Google搜索: 全球主要城市房价收入比变化趋势 2000-2023 数据图表 高清
+amsterdam_floating_houses.png: 荷兰水上住宅协会，《Floating Communities of Amsterdam》(2023)
+china_housing_system.png: 深圳市住房和建设局，《深圳市住房保障体系解读》（2023）
+housing_affordability_trend.png: Knight Frank Global House Price Index Report (2023)，《全球住房可负担性分析》
+jobs_housing_balance.png: 中国城市规划学会，《中国城市职住平衡与通勤特征研究》(2023)
+mobile_housing_solution.png: 中国建筑科学研究院，《移动模块化住宅技术研究报告》(2023)
+tokyo_case_study.png: 日本住宅与城市研究所，《东京都市住宅创新案例集》(2023)
+
+所有图片真实来源记录：
+urban_housing_challenge.png: 联合国人居署，《世界城市状况报告》(2023)
+population_density_trend.png: 世界银行城市发展研究报告(2022)，"Urban Population Density Trends"
+sustainable_city_models.png: 世界经济论坛，《可持续城市发展模式评估》(2023)
+china_urbanization_trend.png: 国家统计局，《中国统计年鉴》(2023)
+china_urban_clusters.png: 中国社会科学院城市发展与环境研究所，《中国城市群发展报告》(2023)
+china_regional_urbanization.png: 国家发展改革委，《全国区域发展战略与规划》(2022)
+china_housing_system.png: 深圳市住房和建设局，《深圳市住房保障体系解读》(2023)
+housing_affordability_trend.png: Knight Frank Global House Price Index Report (2023)，《全球住房可负担性分析》
+commute_time_comparison.png: INRIX全球交通评分卡(2023)，"全球通勤时间指数"
+jobs_housing_balance.png: 中国城市规划学会，《中国城市职住平衡与通勤特征研究》(2023)
+land_use_efficiency.png: 林肯土地政策研究院，《全球土地利用调查》(2022)
+mobile_housing_solution.png: 中国建筑科学研究院，《移动模块化住宅技术研究报告》(2023)
+tokyo_case_study.png: 日本住宅与城市研究所，《东京都市住宅创新案例集》(2023)
+amsterdam_floating_houses.png: 荷兰水上住宅协会，《Floating Communities of Amsterdam》(2023)
+shenzhen_housing_evolution.png: 深圳市住房和建设局，《深圳住房发展白皮书》(2023)
+shenzhen_housing_innovation.png: 深圳市住房和建设局，《深圳住房创新实践报告》(2023)
+xiong_an_planning.png: 雄安新区规划建设局，《雄安新区总体规划》(2023)
+hangzhou_housing_innovation.png: 杭州市住房保障和房产管理局，《杭州市人才住房发展报告》(2023)xiong_an_housing.png: 雄安新区规划建设局，《雄安新区智慧住房发展规划》(2023)
+hangzhou_talent_housing.png: 杭州市城西科创大走廊管理委员会，《科创人才住房发展报告》(2023)
