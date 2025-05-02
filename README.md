@@ -104,3 +104,36 @@ To systematically organize research content, this project has maintained the ori
 7. [Practical Guidelines and Tools](./docs/7-实践指南与工具/README.md) - Providing practical tools and methods
 
 For detailed chapter content, please see the [Documentation Directory](./docs/README.md).
+
+## 图2-5 移动住房分域式智能控制系统架构
+```
+                                    
+                      ┌───────────────────────────┐
+                      │     中央控制计算单元      │
+                      │  Central Compute Module   │
+                      └───────────┬───────────────┘
+                                  │
+                  ┌───────────────┼───────────────┐
+                  │               │               │
+         ┌────────▼─────┐ ┌───────▼────────┐ ┌───▼───────────┐
+         │    前区控制器 │ │    中区控制器  │ │   后区控制器   │
+         │ Front Zone   │ │ Middle Zone    │ │ Rear Zone     │
+         │ Controller   │ │ Controller     │ │ Controller    │
+         └──────┬───────┘ └────────┬───────┘ └───┬───────────┘
+                │                  │               │
+         ┌──────▼───────┐ ┌────────▼───────┐ ┌───▼───────────┐
+         │              │ │                │ │               │
+     ┌───┴────┐     ┌───┴────┐       ┌────┴───┐       ┌─────┴─────┐
+     │  照明   │     │  门禁   │       │  环境   │       │  能源     │
+     │ Light   │     │ Access  │       │ Climate │       │ Power    │
+     │ Control │     │ Control │       │ Control │       │ Control  │
+     └────────┘     └─────────┘       └─────────┘       └───────────┘
+```
+
+## 表2-15 移动住房分域式智能控制系统功能
+| 区域 | 控制器 | 功能描述 |
+| --- | --- | --- |
+| 中央 | 中央控制计算单元 | 系统总控制、数据处理、对外通信、用户界面 |
+| 前区 | 前区域控制器 | 照明控制、门禁管理、前部传感器监控 |
+| 中区 | 中区域控制器 | 环境控制（温度、湿度、空气质量）、娱乐系统 |
+| 后区 | 后区域控制器 | 能源管理、水电系统、后部传感器监控 |
