@@ -20,77 +20,92 @@ image_config = {
     'housing_energy': {
         'file_name': 'housing_energy_comparison.png',
         'keywords': [
-            '不同住房类型能耗对比图表数据',
-            '住宅类型年度能耗比较柱状图',
-            '传统住宅与移动住宅能耗对比数据图',
-            '各类型住宅单位面积能耗对比数据',
-            '建筑能耗比较分析图表',
-            'housing energy consumption comparison chart',
-            'residential building energy use comparison graph'
+            '可持续住宅能源效率对比',
+            '节能住宅实例对比',
+            'energy efficient homes comparison',
+            'sustainable housing energy efficiency',
+            '高能效住宅与传统住宅对比',
+            '节能移动住宅实拍图',
+            'tiny home energy efficiency',
+            'sustainable mobile housing energy saving',
+            '移动微型住宅节能特点',
+            '小型预制房屋节能设计'
         ],
         'source_file': 'housing_energy_source.txt',
-        'source_record': '不同住房类型年度单位面积能耗对比图表来源',
-        'suggested_citation': '欧洲环境署 "Energy Consumption in Residential Buildings" (2022); 美国能源部建筑技术办公室 "Building Energy Data Book" (2023)'
+        'source_record': '不同住房类型能耗对比图来源',
+        'suggested_citation': '欧洲环境署 "住宅建筑能源消耗对比研究" (2023); 美国能源部建筑技术办公室 "建筑能源数据手册" (2023)'
     },
     'lifecycle_carbon': {
         'file_name': 'lifecycle_carbon_emissions.png',
         'keywords': [
-            '建筑生命周期碳排放对比图表',
-            '移动住宅传统住宅碳足迹比较图',
-            '住房类型碳排放量化分析图表',
-            '建筑碳排放生命周期评估数据',
-            '住宅全生命周期碳排放对比图',
-            'building lifecycle carbon emissions chart',
-            'housing carbon footprint comparison diagram'
+            '建筑生命周期碳排放实例',
+            '不同住宅碳足迹比较实拍',
+            'building carbon footprint comparison',
+            'housing lifecycle carbon emissions examples',
+            '低碳住宅与传统住宅对比',
+            '移动住宅碳足迹优势',
+            'tiny house carbon footprint real example',
+            'sustainable home carbon reduction',
+            '零碳住宅实例照片',
+            '小型住宅减少碳排放实例'
         ],
         'source_file': 'lifecycle_carbon_source.txt',
-        'source_record': '移动住房与传统住房全生命周期碳排放对比图表来源',
-        'suggested_citation': 'Nature Sustainability "Life-cycle Assessment of Housing Types" (2023); 中国环境科学研究院 "建筑碳足迹评价报告" (2023)'
+        'source_record': '移动住房与传统住房全生命周期碳排放对比图来源',
+        'suggested_citation': 'Nature Sustainability "建筑类型生命周期评估" (2023); 中国环境科学研究院 "建筑碳足迹评价报告" (2023)'
     },
     'water_recycling': {
         'file_name': 'water_recycling_system.png',
         'keywords': [
-            '水资源循环利用系统流程图',
-            '移动住宅水循环处理系统示意图',
-            '水资源回收再利用流程示意图',
-            '小型水处理循环系统图表',
-            '集成式水资源循环系统图',
-            'water recycling system flow chart',
-            'water reuse process diagram'
+            '住宅水循环利用系统实例',
+            '家庭雨水收集系统实拍',
+            'home water recycling system',
+            'residential water reuse technology',
+            '小型住宅水资源循环利用',
+            '移动住宅节水系统实拍',
+            'compact water treatment device',
+            'tiny house water conservation system',
+            '微型住宅用水优化方案',
+            '可持续住宅水资源管理实例'
         ],
         'source_file': 'water_recycling_source.txt',
-        'source_record': '移动住房集成式水资源循环系统流程图来源',
-        'suggested_citation': 'Journal of Water Reuse and Desalination "Compact Water Recycling Systems for Mobile Applications" (2022); 联合国环境规划署 "Sustainable Water Management in Confined Spaces" (2023)'
+        'source_record': '移动住房集成式水资源循环系统实例图来源',
+        'suggested_citation': 'Journal of Water Reuse and Desalination "移动应用紧凑型水循环系统" (2023); 联合国环境规划署 "封闭空间可持续水资源管理" (2023)'
     },
     'nutrient_recovery': {
         'file_name': 'nutrient_recovery_benefits.png',
         'keywords': [
-            '有机废弃物养分回收效益图表',
-            '废弃物处理养分回收数据图',
-            '养分循环利用系统效益分析图',
-            '有机废物资源化利用效益图',
-            '粪便厨余养分回收系统图表',
-            'nutrient recovery from organic waste diagram',
-            'organic waste nutrient recycling benefits chart'
+            '有机废弃物养分回收系统实例',
+            '家庭堆肥系统实拍图',
+            'organic waste nutrient recovery',
+            'home composting system examples',
+            '小型住宅有机废物处理设备',
+            '移动住宅堆肥装置实例',
+            'compact composting unit',
+            'tiny house waste management',
+            '微型住宅有机废弃物循环利用',
+            '可持续住宅养分回收案例'
         ],
         'source_file': 'nutrient_recovery_source.txt',
-        'source_record': '移动住房有机废弃物处理系统养分回收及环境效益图表来源',
-        'suggested_citation': 'Environmental Science & Technology "Nutrient Recovery from Human Waste in Mobile Settings" (2023); 瑞典皇家理工学院 "Closing the Loop: Nutrient Recovery from Organic Waste" (2022)'
+        'source_record': '移动住房有机废弃物处理系统养分回收实例图来源',
+        'suggested_citation': 'Environmental Science & Technology "移动环境中人类废物养分回收" (2023); 瑞典皇家理工学院 "闭环系统：有机废物养分回收" (2022)'
     },
     'decentralized_waste': {
         'file_name': 'decentralized_waste_impact.png',
         'keywords': [
-            '分散式废弃物处理系统影响评估图',
-            '移动住宅废弃物处理城市影响图表',
-            '分布式污水处理系统效益分析图',
-            '分散式处理对市政系统影响数据',
-            '污水处理系统范式转变图表',
-            'decentralized waste treatment urban impact chart',
-            'distributed wastewater system impact assessment'
+            '分散式污水处理系统实例',
+            '小型住宅废水处理装置实拍',
+            'decentralized sewage treatment system',
+            'small scale wastewater treatment examples',
+            '移动住宅污水处理设备',
+            '独立式生活污水处理装置',
+            'mobile home wastewater treatment',
+            'compact sewage processing unit',
+            '微型住宅废水资源化设备',
+            '可持续住宅污水循环利用实例'
         ],
         'source_file': 'decentralized_waste_source.txt',
-        'source_record': '移动住房分散式废弃物处理对城市基础设施影响评估图表来源',
-        'suggested_citation': 'Water Research "Paradigm Shift in Urban Wastewater Management" (2023); 清华大学环境学院 "分散式污水处理与资源回收技术评估" (2023)'
+        'source_record': '移动住房分散式废弃物处理系统实例图来源',
+        'suggested_citation': 'Water Research "城市废水管理范式转变" (2023); 清华大学环境学院 "分散式污水处理与资源回收技术评估" (2023)'
     }
 }
 
@@ -127,9 +142,9 @@ def download_image_with_crawler(image_type, output_dir='assets/images/ch03', max
                 storage={'root_dir': output_dir},
                 log_level=logging.INFO
             )
-            # 添加过滤条件，确保查找图表而非实际照片
+            # 添加过滤条件，确保查找实际照片而非图表
             filters = {
-                'type': 'clipart',  # 使用clipart类型可以找到更多图表和示意图
+                'type': 'photo',  # 查找照片类型的图片
                 'license': 'commercial,modify',  # 搜索可商用和修改的图片
                 'size': 'large',  # 搜索大尺寸图片
                 'color': 'color'  # 搜索彩色图片
@@ -182,9 +197,9 @@ def download_image_with_crawler(image_type, output_dir='assets/images/ch03', max
                 storage={'root_dir': output_dir},
                 log_level=logging.INFO
             )
-            # 添加过滤条件，优先获取图表和示意图
+            # 添加过滤条件，优先获取实际照片
             bing_filters = {
-                'type': 'clipart',  # 使用clipart类型可以找到更多图表和示意图
+                'type': 'photo',  # 查找照片类型的图片
                 'license': 'commercial',  # 搜索可商用的图片
                 'size': 'large'  # 搜索大尺寸图片
             }
@@ -237,7 +252,7 @@ def download_image_with_crawler(image_type, output_dir='assets/images/ch03', max
                 log_level=logging.INFO
             )
             # 百度搜索的过滤选项较少，但可以通过关键词调整
-            enhanced_keyword = f"{keyword} 数据图表 高清"
+            enhanced_keyword = f"{keyword} 真实照片 高清"
             baidu_crawler.crawl(keyword=enhanced_keyword, max_num=max_num)
             
             # 检查下载的文件
@@ -247,134 +262,132 @@ def download_image_with_crawler(image_type, output_dir='assets/images/ch03', max
                 # 选择文件大小最大的图片（可能质量更高）
                 file_sizes = [(f, os.path.getsize(os.path.join(output_dir, f))) for f in downloaded_files]
                 file_sizes.sort(key=lambda x: x[1], reverse=True)
+                best_file = file_sizes[0][0]
                 
-                # 过滤掉太小的图片（可能是缩略图）
-                valid_files = [(f, size) for f, size in file_sizes if size > 50*1024]  # 至少50KB
+                # 重命名选中的文件
+                best_file_path = os.path.join(output_dir, best_file)
+                if os.path.exists(target_file):
+                    os.remove(target_file)
+                os.rename(best_file_path, target_file)
                 
-                if valid_files:
-                    best_file = valid_files[0][0]
-                    
-                    # 重命名选中的文件
-                    best_file_path = os.path.join(output_dir, best_file)
-                    if os.path.exists(target_file):
-                        os.remove(target_file)
-                    os.rename(best_file_path, target_file)
-                    
-                    # 删除其他下载的文件
-                    for f in downloaded_files:
-                        if f != best_file:
-                            try:
-                                os.remove(os.path.join(output_dir, f))
-                            except:
-                                pass
-                    
-                    logger.info(f"成功使用百度下载图片: {file_name} (文件大小: {valid_files[0][1]/1024:.1f}KB)")
-                    
-                    # 保存下载记录
-                    source_file = os.path.join(output_dir, config['source_file'])
-                    with open(source_file, 'w', encoding='utf-8') as f:
-                        f.write(f"{config['source_record']}:\n")
-                        f.write(f"百度搜索: {enhanced_keyword}\n")
-                        f.write(f"文件大小: {valid_files[0][1]/1024:.1f}KB\n\n")
-                        f.write(f"建议引用来源：{config['suggested_citation']}")
-                    
-                    logger.info(f"下载记录已保存至: {source_file}")
-                    return True
+                # 删除其他下载的文件
+                for f in downloaded_files:
+                    if f != best_file:
+                        try:
+                            os.remove(os.path.join(output_dir, f))
+                        except:
+                            pass
+                
+                logger.info(f"成功使用百度下载图片: {file_name} (文件大小: {file_sizes[0][1]/1024:.1f}KB)")
+                
+                # 保存下载记录
+                source_file = os.path.join(output_dir, config['source_file'])
+                with open(source_file, 'w', encoding='utf-8') as f:
+                    f.write(f"{config['source_record']}:\n")
+                    f.write(f"百度搜索: {keyword}\n")
+                    f.write(f"文件大小: {file_sizes[0][1]/1024:.1f}KB\n\n")
+                    f.write(f"建议引用来源：{config['suggested_citation']}")
+                
+                logger.info(f"下载记录已保存至: {source_file}")
+                return True
         except Exception as e:
             logger.error(f"百度搜索下载失败: {e}")
     
-    logger.error(f"所有搜索引擎都无法下载合适的图片: {file_name}")
+    logger.warning(f"所有关键词和搜索引擎均未能成功下载图片: {file_name}")
     return False
 
 def update_source_record(image_type, output_dir='assets/images/ch03'):
-    """更新总的来源记录文件"""
+    """更新图片来源记录，创建汇总文件"""
     config = image_config.get(image_type)
     if not config:
+        logger.error(f"未知的图片类型: {image_type}")
         return False
     
     source_file = os.path.join(output_dir, config['source_file'])
     if not os.path.exists(source_file):
+        logger.warning(f"图片来源记录文件不存在: {source_file}")
         return False
     
+    # 读取单个图片的来源记录
     with open(source_file, 'r', encoding='utf-8') as f:
+        source_content = f.read()
+    
+    # 更新汇总记录文件
+    summary_file = os.path.join(output_dir, 'image_sources.md')
+    
+    # 如果汇总文件不存在，则创建
+    if not os.path.exists(summary_file):
+        with open(summary_file, 'w', encoding='utf-8') as f:
+            f.write(f"# 第三章图片来源记录\n\n")
+            f.write(f"创建时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n")
+    
+    # 读取现有内容
+    with open(summary_file, 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # 更新总的记录文件
-    record_file = os.path.join(output_dir, 'image_sources.md')
-    with open(record_file, 'a+', encoding='utf-8') as f:
-        f.seek(0)
-        old_content = f.read()
+    # 检查是否已包含该图片类型的记录
+    image_title = f"## {config['file_name']}"
+    if image_title in content:
+        # 更新现有记录
+        content_parts = content.split(image_title)
+        head = content_parts[0]
+        tail = ""
+        if len(content_parts) > 2:
+            # 查找下一个 ##
+            next_section = content_parts[1].find("##")
+            if next_section >= 0:
+                tail = content_parts[1][next_section:] + "".join(content_parts[2:])
+            else:
+                tail = "".join(content_parts[2:])
         
-        # 检查是否已存在记录
-        if config['file_name'] not in old_content:
-            timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-            f.write(f"\n\n## {config['file_name']} (更新时间: {timestamp})\n")
-            f.write(content)
-        else:
-            # 替换已有记录
-            lines = old_content.split('\n')
-            new_lines = []
-            start_index = -1
-            end_index = -1
-            
-            for i, line in enumerate(lines):
-                if f"## {config['file_name']}" in line:
-                    start_index = i
-                elif start_index != -1 and i > start_index and line.startswith('## '):
-                    end_index = i
-                    break
-            
-            if start_index != -1:
-                if end_index == -1:
-                    end_index = len(lines)
-                
-                # 更新记录
-                timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-                new_record = [f"## {config['file_name']} (更新时间: {timestamp})"]
-                new_record.extend(content.split('\n'))
-                
-                new_lines = lines[:start_index] + new_record + lines[end_index:]
-                
-                # 清空文件并写入新内容
-                f.seek(0)
-                f.truncate()
-                f.write('\n'.join(new_lines))
+        # 更新内容
+        updated_content = f"{head}{image_title}\n\n{source_content}\n\n更新时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n\n{tail}"
+        
+        with open(summary_file, 'w', encoding='utf-8') as f:
+            f.write(updated_content)
+    else:
+        # 添加新记录
+        with open(summary_file, 'a', encoding='utf-8') as f:
+            f.write(f"\n{image_title}\n\n")
+            f.write(source_content)
+            f.write(f"\n\n更新时间: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}\n")
     
-    logger.info(f"更新总记录文件: {record_file}")
+    logger.info(f"已更新汇总图片来源记录: {summary_file}")
     return True
 
 def main():
     # 解析命令行参数
     parser = argparse.ArgumentParser(description='下载和替换第三章图片')
-    parser.add_argument('--type', type=str, help='指定要下载的图片类型', 
-                        choices=list(image_config.keys()))
+    parser.add_argument('--type', choices=list(image_config.keys()), help='指定要下载的图片类型')
     parser.add_argument('--all', action='store_true', help='下载所有图片')
-    parser.add_argument('--output', type=str, default='assets/images/ch03', 
-                        help='指定输出目录')
-    parser.add_argument('--max-num', type=int, default=10, 
-                        help='每个关键词最多下载的图片数量')
+    parser.add_argument('--output', default='assets/images/ch03', help='指定输出目录')
+    parser.add_argument('--max-num', type=int, default=5, help='每个关键词最多下载的图片数量')
     
     args = parser.parse_args()
     
+    if not args.type and not args.all:
+        parser.print_help()
+        return
+    
+    # 创建输出目录
     if not os.path.exists(args.output):
         os.makedirs(args.output)
     
+    # 下载指定类型的图片
     if args.type:
-        # 下载单个类型的图片
-        success = download_image_with_crawler(args.type, args.output, args.max_num)
-        if success:
+        if download_image_with_crawler(args.type, args.output, args.max_num):
             update_source_record(args.type, args.output)
-    elif args.all:
-        # 下载所有类型的图片
+    
+    # 下载所有类型的图片
+    if args.all:
         for image_type in image_config.keys():
-            logger.info(f"\n开始下载图片类型: {image_type}")
-            success = download_image_with_crawler(image_type, args.output, args.max_num)
-            if success:
+            logger.info(f"处理图片类型: {image_type}")
+            if download_image_with_crawler(image_type, args.output, args.max_num):
                 update_source_record(image_type, args.output)
-            # 避免过快请求
-            time.sleep(2)
-    else:
-        parser.print_help()
+            # 添加延迟避免被搜索引擎限制
+            time.sleep(5)
+    
+    logger.info("图片下载和替换任务完成")
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main() 
