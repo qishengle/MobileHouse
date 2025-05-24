@@ -1,1 +1,0 @@
-hydrogen_fuel_cell_integration.png: Journal of Power Sources, "Integrated Hydrogen Fuel Cell Systems for Mobile Applications" (2023)
