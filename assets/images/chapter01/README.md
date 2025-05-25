@@ -4,44 +4,61 @@
 
 ## 图片清单
 
-| 序号 | 文件名 | 图片标题 | 用途 | 来源 |
-|------|--------|----------|------|------|
-| 1 | 01-housing-evolution.jpg | 人类住房发展的历史演进 | 章节概述配图 | Unsplash - Architecture Evolution |
-| 2 | 02-traditional-thatched-house.jpg | 第一代住房代表 - 传统茅草屋 | 第一代住房介绍 | Unsplash - Traditional Thatched House |
-| 3 | 03-beijing-courtyard.jpg | 第二代住房代表 - 北京四合院 | 第二代住房介绍 | Unsplash - Beijing Courtyard House |
-| 4 | 04-modern-highrise.jpg | 第三代住房代表 - 现代高层住宅 | 第三代住房介绍 | Unsplash - Modern High-rise Apartments |
-| 5 | 05-modern-mobile-home.jpg | 第四代住房代表 - 现代移动住房 | 第四代住房介绍 | Unsplash - Modern Mobile Home |
-| 6 | 06-insulation-materials.jpg | 移动住房三明治墙体结构 | 保温性能说明 | Unsplash - Insulation Materials |
-| 7 | 07-rural-mobile-home.jpg | 农村移动住房应用场景 | 农村应用场景 | Unsplash - Rural Mobile Home |
-| 8 | 08-mobile-home-community.jpg | 移动住房营地规划示意 | 城市营地模式 | Unsplash - Mobile Home Community |
-| 9 | 09-solar-panel-system.jpg | 移动住房太阳能发电系统 | 技术成熟度评估 | Unsplash - Solar Panel System |
-| 10 | 10-mobile-home-chassis.jpg | 移动住房底盘系统设计 | 底盘设计说明 | Unsplash - Mobile Home Chassis |
+| 序号 | 文件名 | 图片标题 | 用途 | 文件大小 |
+|------|--------|----------|------|----------|
+| 1 | 01-housing-evolution.png | 人类住房发展的历史演进 | 章节概述配图 | 2.2MB |
+| 2 | 02-traditional-house.png | 第一代住房代表 - 传统住房 | 第一代住房介绍 | 1.7MB |
+| 3 | 03-courtyard-house.png | 第二代住房代表 - 四合院 | 第二代住房介绍 | 1.3MB |
+| 4 | 04-modern-apartment.png | 第三代住房代表 - 现代公寓 | 第三代住房介绍 | 1.2MB |
+| 5 | 05-mobile-home.png | 第四代住房代表 - 移动住房 | 第四代住房介绍 | 1.1MB |
+| 6 | 06-wall-structure.png | 移动住房三明治墙体结构 | 保温性能说明 | 1.1MB |
+| 7 | 07-rural-application.png | 农村移动住房应用场景 | 农村应用场景 | 1.0MB |
+| 8 | 08-community-layout.png | 移动住房营地规划示意 | 城市营地模式 | 982KB |
+| 9 | 09-solar-system.png | 移动住房太阳能发电系统 | 技术成熟度评估 | 937KB |
+| 10 | 10-chassis-design.png | 移动住房底盘系统设计 | 底盘设计说明 | 879KB |
 
-## 版权说明
+## 图片来源
 
-所有图片均来自Unsplash免费图库，遵循Unsplash License：
-- 可用于商业和非商业用途
-- 无需征得许可
-- 无需支付版权费
-- 建议但不强制要求署名
+所有图片均来自《移动住房时代，凤凰来仪》原始文档，经过筛选和优化处理。
+
+## 目录结构
+
+```
+assets/images/chapter01/
+├── README.md                    # 本文件
+├── docx_images/                 # 从docx提取的原始图片（159张）
+├── selected/                    # 精选的第1章图片（10张）
+│   ├── 01-housing-evolution.png
+│   ├── 02-traditional-house.png
+│   ├── 03-courtyard-house.png
+│   ├── 04-modern-apartment.png
+│   ├── 05-mobile-home.png
+│   ├── 06-wall-structure.png
+│   ├── 07-rural-application.png
+│   ├── 08-community-layout.png
+│   ├── 09-solar-system.png
+│   └── 10-chassis-design.png
+└── [原Unsplash图片已替换]
+```
 
 ## 技术规格
 
-- 图片格式：JPEG
-- 图片尺寸：800px-1000px宽度
-- 文件大小：30KB-400KB
-- 压缩质量：80%
+- 图片格式：PNG
+- 图片尺寸：800px-1300px宽度
+- 文件大小：879KB-2.2MB
+- 图片质量：高清原图
 
 ## 使用方式
 
 在Markdown文档中引用图片：
 ```markdown
-![图片描述](../assets/images/chapter01/文件名.jpg)
+![图片描述](../assets/images/chapter01/selected/文件名.png)
 *图片标题*
-*图片来源说明*
 ```
 
 ## 更新日志
 
-- 2024-05-25：创建图片目录，下载所有10张图片
-- 2024-05-25：更新文档中的图片链接为本地路径 
+- 2024-05-25：从docx文档提取159张图片
+- 2024-05-25：筛选出10张高质量图片用于第1章
+- 2024-05-25：更新文档中的图片链接为docx图片
+- 2024-05-25：移除图片来源说明 
